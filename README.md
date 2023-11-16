@@ -1,2 +1,0 @@
-# GestionDeVuelos
-Proyecto De Vuelos
